@@ -1,0 +1,7 @@
+''' 
+Abrindo para leitura:
+
+with print(conteudo) open("dados.txt", "r", 
+encoding="utf-8") as f:
+    conteudo = f.read()
+'''
